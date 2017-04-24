@@ -26,7 +26,7 @@ define('DB_NAME', 'kristina');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'mysqlyy');
+define('DB_PASSWORD', 'mysqly');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
